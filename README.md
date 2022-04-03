@@ -13,7 +13,7 @@
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102122063/161401589-fd93e00b-e58f-48ed-9e9f-34f4593462f8.png)
-**Figure 2:** Line graph of the outcomes of campaigns for plays based on the fundraising goal of each campaign. 
+**Figure 2:** Line graph of the outcomes of campaigns for plays based on the fundraising goal of each campaign.
 ### Challenges and Difficulties Encountered
 
 ## Results
