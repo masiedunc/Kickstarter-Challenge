@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this project is to be able to provide you an answer on how other Kickstarter fundraising campaigns fared. To provide you a clear analysis, we looked at the trends of Kickstarter campaign outcomes for the theater, and how they fared in relation to their launch dates and funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
