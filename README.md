@@ -17,6 +17,7 @@ After looking at data of the outcomes for Kickstarter fundraising campaigns of p
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102122063/161401589-fd93e00b-e58f-48ed-9e9f-34f4593462f8.png)
 **Figure 2:** Line graph of Kickstarter fundraising outcomes for Plays based on the fundraising goal for each campaign shown in percentages. 
 ### Challenges and Difficulties Encountered
+We encountered some challenges within the large data set, to narrow the focus but still keep the population large enough to provide accurate Theater & Play data outcomes to generate insights. When specifically looking at theater projects and even more specifically, Plays, the smaller subset made it difficult to have insight into other reasons for why some campaigns were successful while others failed to reach their goals. 
 
 ## Results
 
